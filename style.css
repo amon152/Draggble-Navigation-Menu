@@ -34,7 +34,7 @@ nav .nav-content{
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+  box-shadow: 0 0 20px rgba(22, 22, 22, 0.2);
 }
 .nav-content .toggle-btn{
   font-size: 35px;
