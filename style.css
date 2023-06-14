@@ -62,7 +62,7 @@ nav.open .nav-content span{
 }
 .nav-content span a i{
   font-size: 24px;
-  color: #133041;
+  color: #0e5985;
   transform: rotate(calc(var(--i) * (360deg/ -8)));
   opacity: 0.8;
   transition: 0.2s;
