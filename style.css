@@ -38,7 +38,7 @@ nav .nav-content{
 }
 .nav-content .toggle-btn{
   font-size: 35px;
-  color: #0e2431;
+  color: #214e68;
   z-index: 100;
   cursor: pointer;
   transform: rotate(-225deg);
